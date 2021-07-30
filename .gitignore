@@ -117,3 +117,7 @@ GitHub.sublime-settings
 .history
 
 .venv
+
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
